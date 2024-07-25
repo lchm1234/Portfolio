@@ -1,0 +1,12 @@
+names:
+- Ferry
+- Buoy
+- Vessel_ship
+- Boat
+- Kayak
+- Sail_boat
+- Other
+nc: 7
+path: ../datasets/SMD_Plus
+train: train
+val: val
